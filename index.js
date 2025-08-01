@@ -1,7 +1,7 @@
 let btn1 = document.getElementById('mybtn1');
 let btn2 = document.getElementById('mybtn2');
 let copy = document.querySelector(".copycode");
-let rgb1 = "#000";
+let rgb1 = "#fff";
 let rgb2 = "#fff";
 
 //getting random hexa color code '#8f584b'
